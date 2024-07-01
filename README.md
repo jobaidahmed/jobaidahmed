@@ -12,15 +12,10 @@ Skills:I am Ethacal Hakear ,python,Html
 
 </div>
 
-<!-- - 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/) -->
+<!--  🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/) -->
 
 - 🌱 I’m currently learning Ethacal Haking
-- <!--
 
-- 👨‍💻 All of my projects are available at [https://github.com/jobaidahmed](https://github.com/jobaidahmed)
-
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
--->
 - 💬 Ask me about **HTML5, python ,Ethacal Haking
 
 - 📫 How to reach me **https://www.facebook.com/profile.php?id=100084858416508&mibextid=ZbWKwL*
